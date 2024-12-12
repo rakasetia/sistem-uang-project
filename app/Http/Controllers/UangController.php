@@ -9,13 +9,10 @@ class UangController extends Controller
 {
     public function santri()
     {
-      $max_data = 6;
-
+      
 
       $santris = santri::all();
-      $santris = santri::paginate($max_data); 
-
-     
+        
        return view('admin.santri.index',compact('santris'));
     }
 
