@@ -21,7 +21,7 @@
             <label for="saldo">masukan saldo</label>
             <input type="text" class="form-control" id="saldo" name="saldo">
         </div>
-        <button type="submit" class="btn btn-primary">tanbah data</button>
+        <button type="submit" class="btn btn-primary">simpan data</button>
     </form>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
