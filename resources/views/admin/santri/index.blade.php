@@ -20,7 +20,7 @@
                                 <th scope="col">Nama Santri</th>
                                 <th scope="col">kelas</th>
                                 <th scope="col">Saldo</th>
-                                <th scope="colspan-2">Pilihan</th>
+                                <th scope="colspan-2">settings</th>
                             </tr>
                         </thead>
                         <tbody>
